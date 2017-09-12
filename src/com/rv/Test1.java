@@ -9,6 +9,10 @@ public class Test1 {
 		
 		System.out.println(logic.addTwoNumbers(20, 25));
 		
+		System.out.println(logic.addTwoNumbers(89, 25));
+		
+		System.out.println(logic.addTwoNumbers(20, 58));
+		
 
 	}
 
