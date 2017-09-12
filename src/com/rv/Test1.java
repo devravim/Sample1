@@ -13,6 +13,8 @@ public class Test1 {
 		
 		System.out.println(logic.addTwoNumbers(20, 58));
 		
+		System.out.println(logic.multiplyTwoNumbers(20, 58));
+		
 
 	}
 
